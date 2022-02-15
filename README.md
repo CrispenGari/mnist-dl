@@ -4,6 +4,11 @@ This is a simple deep learning application for hand digits recognition in realti
 
 <img src="/mnist.png" alt="img" width="100%"/>
 
+### Deployed applications
+1. [server](https://lenet-mnist.herokuapp.com/)
+2. [client](https://mnist-next-client.vercel.app/)
+
+
 This application is using a multi-repo approach with the following packages:
 
 ```
